@@ -1,0 +1,32 @@
+{
+  "greenhouse": [
+    "zapier",
+    "gitlab",
+    "hashicorp",
+    "datadog",
+    "newrelic",
+    "cloudflare",
+    "fastly",
+    "pagerduty",
+    "elastic",
+    "sentry",
+    "digitalocean",
+    "hubspot",
+    "atlassian",
+    "shopify",
+    "twilio",
+    "okta",
+    "mongodb",
+    "vercel",
+    "supabase",
+    "railway",
+    "planet",
+    "scaleai",
+    "sourcegraph",
+    "stripe",
+    "dropbox",
+    "reddit",
+    "figma"
+  ],
+  "lever": []
+}

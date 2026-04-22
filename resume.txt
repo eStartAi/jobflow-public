@@ -1,0 +1,39 @@
+GM ALAM
+Philadelphia, PA
+Email: gmalam215@gmail.com
+LinkedIn: linkedin.com/in/alamgm
+GitHub: github.com/eStartAi
+
+PROFESSIONAL SUMMARY
+Detail-oriented and self-driven technical professional with hands-on experience building and managing automated systems on Linux-based VPS environments. Skilled in cloud infrastructure, system troubleshooting, API integrations, and process automation. Seeking a DevOps Support, Cloud Support, or Technical Operations role.
+
+TECHNICAL SKILLS
+- Linux CLI, SSH, system administration
+- AWS EC2, VPS (Contabo), environment setup
+- Python (automation scripts, APIs, webhooks)
+- Git/GitHub (version control, deployment)
+- Monitoring: Grafana, Prometheus (basic)
+- Tools: Docker (basic), Argo CD (exposure), Jira, Splunk, Dynatrace
+
+EXPERIENCE
+
+DevOps Administrator (Contract)
+The Xela Group | Jul 2022 – Jul 2023
+- Supported OpenShift cluster environments (dev & prod)
+- Assisted CI/CD workflows and deployment pipelines
+- Monitored system performance using Grafana, Dynatrace, Prometheus
+- Troubleshot infrastructure and application issues
+
+Independent Technical Projects
+- Built automated trading bot using Python, APIs, and VPS deployment
+- Developed webhook-based systems for real-time data processing
+- Designed scalable automation workflows and monitoring logic
+
+Warehouse / Logistics Associate (Contract)
+Different Touch | 2020 – Present
+- Managed inventory and operations workflows
+
+ADDITIONAL
+- Strong troubleshooting mindset
+- Fast learner, automation-focused
+- Available for remote roles
